@@ -1,0 +1,12 @@
+:HL["/_next/static/chunks/3z2dkwp3q5-95.css","style"]
+:HL["/_next/static/media/07935285219a259d-s.p.1qq4vpdcun5oj.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/07a39a8a4660cc7c-s.p.0r6juujl39pe6.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/605ce01b664af129-s.p.0wgildi0cnwt9.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/6e342921ee4dcd9d-s.p.2tuy5pz7dlieh.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+6:[["children",{"s":"__PAGE__","h":160}]]
+5:[["children",{"s":"explanation","h":96,"c":"$Q6"}]]
+4:[["children",{"s":{"n":"slug","t":"d","k":"animal-vital-functions","s":[]},"h":65632,"c":"$Q5"}]]
+3:[["children",{"s":{"n":"level","t":"d","k":"primary-3","s":[]},"h":196704,"c":"$Q4"}]]
+2:[["children",{"s":{"n":"subject","t":"d","k":"natural-science","s":[]},"h":196704,"c":"$Q3"}]]
+1:[["children",{"s":"lessons","h":131168,"c":"$Q2"}]]
+0:{"b":"bzQubDUDjNqIF18J9fRSL","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}

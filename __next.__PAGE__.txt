@@ -1,27 +1,32 @@
 1:"$Sreact.fragment"
 2:"/_next/static/chunks/3qfy96eoyh-ek.js"
-3:I[39756,["$2"],"default"]
-4:I[37457,["$2"],"default"]
-8:"/_next/static/chunks/3zxalxvoeuu-5.js"
-9:I[5500,["$2","$8"],"Image"]
-d:"ViewportBoundary"
-e:I[97367,["$2"],"$d"]
-f:"MetadataBoundary"
-10:I[97367,["$2"],"$f"]
-11:"$Sreact.suspense"
-12:I[27201,["$2"],"IconMark"]
-:HL["/_next/static/chunks/2g4ucg471zvo2.css","style"]
-6:X
-7:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[["$","div",null,{"className":"flex flex-1 flex-col items-center justify-center bg-zinc-50 font-sans dark:bg-black","children":["$","main",null,{"className":"flex w-full max-w-3xl flex-1 flex-col items-center justify-between bg-white px-16 py-32 sm:items-start dark:bg-black","children":[["$","$L9",null,{"className":"h-5 w-[100px] dark:invert","src":"/next.svg","alt":"Next.js logo","width":100,"height":20,"priority":true}],["$","div",null,{"className":"flex flex-col items-center gap-6 text-center sm:items-start sm:text-left","children":[["$","h1",null,{"className":"max-w-xs text-3xl leading-10 font-semibold tracking-tight text-black dark:text-zinc-50","children":["To get started, edit the"," ",["$","code",null,{"className":"rounded bg-black/[.06] px-1.5 py-0.5 font-mono text-[0.9em] dark:bg-white/[.08]","children":"page.tsx"}]," ","file."]}],["$","p",null,{"className":"max-w-md text-lg leading-8 text-zinc-600 dark:text-zinc-400","children":["Looking for a starting point or more instructions? Head over to"," ",["$","a",null,{"href":"https://vercel.com/templates?framework=next.js&utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app","className":"font-medium text-zinc-950 dark:text-zinc-50","children":"Templates"}]," ","or the"," ",["$","a",null,{"href":"https://nextjs.org/learn?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app","className":"font-medium text-zinc-950 dark:text-zinc-50","children":"Learning"}]," ","center."]}]]}],["$","div",null,{"className":"flex flex-col gap-4 text-base font-medium sm:flex-row","children":[["$","a",null,{"className":"flex h-12 w-full items-center justify-center gap-2 rounded-full bg-foreground px-5 text-background transition-colors hover:bg-[#383838] md:w-[158px] dark:hover:bg-[#ccc]","href":"https://vercel.com/new?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app","target":"_blank","rel":"noopener noreferrer","children":[["$","$L9",null,{"className":"h-[14px] w-4 dark:invert","src":"/vercel.svg","alt":"Vercel logomark","width":16,"height":14}],"Deploy Now"]}],["$","a",null,{"className":"flex h-12 w-full items-center justify-center rounded-full border border-solid border-black/[.08] px-5 transition-colors hover:border-transparent hover:bg-black/[.04] md:w-[158px] dark:border-white/[.145] dark:hover:bg-[#1a1a1a]","href":"https://nextjs.org/docs?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app","target":"_blank","rel":"noopener noreferrer","children":"Documentation"}]]}]]}]}],["$La"],"$Lb"]}],"p":"$@c","v":null,"s":"$6"}}]]
-0:{"t":{"t":{"s":"","h":80,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2g4ucg471zvo2.css","precedence":"next"}],["$","script","script-0",{"src":"/_next/static/chunks/3qfy96eoyh-ek.js","async":true}]],["$","html",null,{"lang":"en","className":"T19VSG_variable _8Li5zG_variable h-full antialiased","children":["$","body",null,{"className":"flex min-h-full flex-col","children":["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}],"notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]]}]}]}]]}],"p":"$@5","v":null,"s":"$6"},"c":"$Q7"},"h":{"r":["$","$1","h",{"children":[null,["$","$Le",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L10",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$11",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Create Next App"}],["$","meta","1",{"name":"description","content":"Generated by create next app"}],["$","link","2",{"rel":"icon","href":"/favicon.ico?favicon.117ezoe8m31dk.ico","sizes":"48x48","type":"image/x-icon"}],["$","$L12","3",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@13","v":null,"s":"$6"}},"a":"$@14","u":"$@15","b":"IHMeT51kwS4syekOJZPN6"}
-16:I[97367,["$2"],"OutletBoundary"]
-a:["$","script","script-0",{"src":"/_next/static/chunks/3zxalxvoeuu-5.js","async":true}]
-b:["$","$L16",null,{"children":["$","$11",null,{"name":"Next.MetadataOutlet","children":"$@17"}]}]
-6:300
-17:null
-15:true
-6:C
-14:0
-5:"$undefined"
-13:"$undefined"
-c:"$undefined"
+3:"/_next/static/chunks/0t0ar35etd5b7.js"
+4:"/_next/static/chunks/0ps9ie2hrrts7.js"
+5:"/_next/static/chunks/39-p1n8cuql59.js"
+6:I[50300,["$2","$3","$4","$5"],"I18nProvider"]
+7:I[27414,["$2","$3","$4","$5"],"SiteHeader"]
+8:I[5050,["$2","$3","$4","$5"],"SettingsPanel"]
+9:I[39756,["$2","$3","$4","$5"],"default"]
+a:I[37457,["$2","$3","$4","$5"],"default"]
+e:"/_next/static/chunks/334z11g01627j.js"
+f:I[81067,["$2","$3","$4","$5","$e"],"Welcome"]
+10:I[77189,["$2","$3","$4","$5","$e"],"LessonList"]
+11:I[97367,["$2","$3","$4","$5"],"OutletBoundary"]
+12:"$Sreact.suspense"
+15:"ViewportBoundary"
+16:I[97367,["$2","$3","$4","$5"],"$15"]
+17:"MetadataBoundary"
+18:I[97367,["$2","$3","$4","$5"],"$17"]
+19:I[27201,["$2","$3","$4","$5"],"IconMark"]
+:HL["/_next/static/chunks/3z2dkwp3q5-95.css","style"]
+c:X
+d:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[[["$","$Lf",null,{}],["$","$L10",null,{"lessons":[{"subject":"natural-science","level":"primary-3","slug":"animal-vital-functions","title":"Las funciones vitales de los animales","translatedTitles":{"ru":"Жизненные функции животных"}}]}]],[["$","script","script-0",{"src":"/_next/static/chunks/334z11g01627j.js","async":true}]],["$","$L11",null,{"children":["$","$12",null,{"name":"Next.MetadataOutlet","children":"$@13"}]}]]}],"p":"$@14","v":null,"s":"$c"}}]]
+0:{"t":{"t":{"s":"","h":80,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/3z2dkwp3q5-95.css","precedence":"next"}],["$","script","script-0",{"src":"/_next/static/chunks/3qfy96eoyh-ek.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/0t0ar35etd5b7.js","async":true}],["$","script","script-2",{"src":"/_next/static/chunks/0ps9ie2hrrts7.js","async":true}],["$","script","script-3",{"src":"/_next/static/chunks/39-p1n8cuql59.js","async":true}]],["$","html",null,{"lang":"ru","suppressHydrationWarning":true,"className":"UNybwq_variable mUfs1G_variable h-full antialiased","children":[["$","head",null,{"children":["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function () {\n  try {\n    var stored = JSON.parse(localStorage.getItem(\"kids-school-trainer.device-settings.v1\"));\n    var language = stored && stored[\"supportLanguage\"];\n    if ([\"ru\"].indexOf(language) === -1) return;\n    var root = document.documentElement;\n    root.lang = language;\n    if (language !== \"ru\") {\n      root.setAttribute(\"data-language-pending\", \"\");\n    }\n  } catch (error) {}\n})();"}}]}],["$","body",null,{"className":"flex min-h-full flex-col","children":["$","$L6",null,{"children":[["$","$L7",null,{"actions":["$","$L8",null,{}]}],["$","main",null,{"className":"flex flex-1 flex-col","children":["$","$L9",null,{"parallelRouterKey":"children","template":["$","$La",null,{}],"notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]]}]}]]}]}]]}]]}],"p":"$@b","v":null,"s":"$c"},"c":"$Qd"},"h":{"r":["$","$1","h",{"children":[null,["$","$L16",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L18",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$12",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Испанский для школы"}],["$","meta","1",{"name":"description","content":"Испанский для школы: школьные темы на испанском с переводом на русский и озвучкой терминов."}],["$","link","2",{"rel":"icon","href":"/icon.svg?icon.3ne1i7z-tbaxq.svg","sizes":"any","type":"image/svg+xml"}],["$","$L19","3",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@1a","v":null,"s":"$c"}},"a":"$@1b","u":"$@1c","b":"bzQubDUDjNqIF18J9fRSL"}
+13:null
+c:300
+1c:true
+c:C
+1b:0
+b:"$undefined"
+1a:"$undefined"
+14:"$undefined"
