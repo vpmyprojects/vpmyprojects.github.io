@@ -1,32 +1,25 @@
-1:"$Sreact.fragment"
-2:"/_next/static/chunks/3qfy96eoyh-ek.js"
-3:"/_next/static/chunks/1gqj_0_2do-1t.js"
-4:"/_next/static/chunks/0ps9ie2hrrts7.js"
-5:"/_next/static/chunks/39898ma_qw873.js"
-6:I[50300,["$2","$3","$4","$5"],"I18nProvider"]
-7:I[27414,["$2","$3","$4","$5"],"SiteHeader"]
-8:I[5050,["$2","$3","$4","$5"],"SettingsPanel"]
-9:I[39756,["$2","$3","$4","$5"],"default"]
-a:I[37457,["$2","$3","$4","$5"],"default"]
-e:"/_next/static/chunks/334z11g01627j.js"
-f:I[81067,["$2","$3","$4","$5","$e"],"Welcome"]
-10:I[77189,["$2","$3","$4","$5","$e"],"LessonList"]
-11:I[97367,["$2","$3","$4","$5"],"OutletBoundary"]
-12:"$Sreact.suspense"
-15:"ViewportBoundary"
-16:I[97367,["$2","$3","$4","$5"],"$15"]
-17:"MetadataBoundary"
-18:I[97367,["$2","$3","$4","$5"],"$17"]
-19:I[27201,["$2","$3","$4","$5"],"IconMark"]
-:HL["/_next/static/chunks/3z2dkwp3q5-95.css","style"]
-c:X
-d:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[[["$","$Lf",null,{}],["$","$L10",null,{"lessons":[{"subject":"natural-science","level":"primary-3","slug":"animal-vital-functions","title":"Las funciones vitales de los animales","translatedTitles":{"ru":"Жизненные функции животных"}}]}]],[["$","script","script-0",{"src":"/_next/static/chunks/334z11g01627j.js","async":true}]],["$","$L11",null,{"children":["$","$12",null,{"name":"Next.MetadataOutlet","children":"$@13"}]}]]}],"p":"$@14","v":null,"s":"$c"}}]]
-0:{"t":{"t":{"s":"","h":80,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/3z2dkwp3q5-95.css","precedence":"next"}],["$","script","script-0",{"src":"/_next/static/chunks/3qfy96eoyh-ek.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/1gqj_0_2do-1t.js","async":true}],["$","script","script-2",{"src":"/_next/static/chunks/0ps9ie2hrrts7.js","async":true}],["$","script","script-3",{"src":"/_next/static/chunks/39898ma_qw873.js","async":true}]],["$","html",null,{"lang":"ru","suppressHydrationWarning":true,"className":"UNybwq_variable mUfs1G_variable h-full antialiased","children":[["$","head",null,{"children":["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function () {\n  try {\n    var stored = JSON.parse(localStorage.getItem(\"kids-school-trainer.device-settings.v1\"));\n    var language = stored && stored[\"supportLanguage\"];\n    if ([\"ru\"].indexOf(language) === -1) return;\n    var root = document.documentElement;\n    root.lang = language;\n    if (language !== \"ru\") {\n      root.setAttribute(\"data-language-pending\", \"\");\n    }\n  } catch (error) {}\n})();"}}]}],["$","body",null,{"className":"flex min-h-full flex-col","children":["$","$L6",null,{"children":[["$","$L7",null,{"actions":["$","$L8",null,{}]}],["$","main",null,{"className":"flex flex-1 flex-col","children":["$","$L9",null,{"parallelRouterKey":"children","template":["$","$La",null,{}],"notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]]}]}]]}]}]]}]]}],"p":"$@b","v":null,"s":"$c"},"c":"$Qd"},"h":{"r":["$","$1","h",{"children":[null,["$","$L16",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L18",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$12",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Испанский для школы"}],["$","meta","1",{"name":"description","content":"Испанский для школы: школьные темы на испанском с переводом на русский и озвучкой терминов."}],["$","link","2",{"rel":"icon","href":"/icon.svg?icon.3ne1i7z-tbaxq.svg","sizes":"any","type":"image/svg+xml"}],["$","$L19","3",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@1a","v":null,"s":"$c"}},"a":"$@1b","u":"$@1c","b":"SWrW102CA3QgDCrp9fjyt"}
-13:null
-c:300
-1c:true
-c:C
-1b:0
-b:"$undefined"
-1a:"$undefined"
+2:"$Sreact.fragment"
+3:"/_next/static/chunks/3qfy96eoyh-ek.js"
+4:"/_next/static/chunks/3m-flhm_2u0ji.js"
+5:"/_next/static/chunks/3-pvm14dxi2c5.js"
+6:"/_next/static/chunks/3oc0ypyrvod_c.js"
+7:"/_next/static/chunks/0hbq5b3h6250s.js"
+8:I[81067,["$3","$4","$5","$6","$7"],"Welcome"]
+9:I[77189,["$3","$4","$5","$6","$7"],"LessonList"]
+a:I[97367,["$3","$4","$5","$6"],"OutletBoundary"]
+b:"$Sreact.suspense"
+f:"ViewportBoundary"
+10:I[97367,["$3","$4","$5","$6"],"$f"]
+11:"MetadataBoundary"
+12:I[97367,["$3","$4","$5","$6"],"$11"]
+13:I[27201,["$3","$4","$5","$6"],"IconMark"]
+e:X
+1:[["children",{"s":"__PAGE__","h":128,"d":{"r":["$","$2","c",{"children":[[["$","$L8",null,{}],["$","$L9",null,{"lessons":[{"subject":"natural-science","level":"primary-3","slug":"animal-vital-functions","title":"Las funciones vitales de los animales","translatedTitles":{"ru":"Жизненные функции животных"}}]}]],[["$","script","script-0",{"src":"/_next/static/chunks/0hbq5b3h6250s.js","async":true}]],["$","$La",null,{"children":["$","$b",null,{"name":"Next.MetadataOutlet","children":"$@c"}]}]]}],"p":"$@d","v":null,"s":"$e"}}]]
+0:{"t":{"t":{"s":"","h":16,"c":"$Q1"},"h":{"r":["$","$2","h",{"children":[null,["$","$L10",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L12",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$b",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Испанский для школы"}],["$","meta","1",{"name":"description","content":"Испанский для школы: школьные темы на испанском с переводом на русский и озвучкой терминов."}],["$","link","2",{"rel":"icon","href":"/icon.svg?icon.3ne1i7z-tbaxq.svg","sizes":"any","type":"image/svg+xml"}],["$","$L13","3",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@14","v":null,"s":"$e"}},"a":"$@15","u":"$@16","b":"n_qp7fXOFPE5O65ia2h48"}
+c:null
+16:true
+e:300
+e:C
+15:0
 14:"$undefined"
+d:"$undefined"
