@@ -1,8 +1,8 @@
 2:"$Sreact.fragment"
-3:"/_next/static/chunks/3qfy96eoyh-ek.js"
-4:"/_next/static/chunks/2gf3267mqh9hm.js"
-5:"/_next/static/chunks/3-pvm14dxi2c5.js"
-6:"/_next/static/chunks/3at_e-dwsp_hf.js"
+3:"/_next/static/chunks/27bezkmr33tms.js"
+4:"/_next/static/chunks/0-wdsdw-cjsc5.js"
+5:"/_next/static/chunks/2hqyo1b0eg5l6.js"
+6:"/_next/static/chunks/3uog7q6mq-wqg.js"
 7:"/_next/static/chunks/3f0kc1lvqhwfr.js"
 8:I[81067,["$3","$4","$5","$6","$7"],"Welcome"]
 9:I[77189,["$3","$4","$5","$6","$7"],"LessonList"]
@@ -15,7 +15,7 @@ f:"ViewportBoundary"
 13:I[27201,["$3","$4","$5","$6"],"IconMark"]
 e:X
 1:[["children",{"s":"__PAGE__","h":128,"d":{"r":["$","$2","c",{"children":[[["$","$L8",null,{}],["$","$L9",null,{"lessons":[{"subject":"mathematics","level":"primary-3","slug":"rounding","title":"Aproximaciones","translatedTitles":{"ru":"Округление"},"trainers":[{"id":"aproxima","title":"Aproxima","translatedTitles":{"ru":"Округляй"},"translatedDescriptions":{"ru":"Округляй числа до сотен и до тысяч: сначала с линейкой, потом в уме."}}]},{"subject":"natural-science","level":"primary-3","slug":"animal-vital-functions","title":"Las funciones vitales de los animales","translatedTitles":{"ru":"Жизненные функции животных"},"trainers":[]}]}]],[["$","script","script-0",{"src":"/_next/static/chunks/3f0kc1lvqhwfr.js","async":true}]],["$","$La",null,{"children":["$","$b",null,{"name":"Next.MetadataOutlet","children":"$@c"}]}]]}],"p":"$@d","v":null,"s":"$e"}}]]
-0:{"t":{"t":{"s":"","h":16,"c":"$Q1"},"h":{"r":["$","$2","h",{"children":[null,["$","$L10",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L12",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$b",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Испанский для школы"}],["$","meta","1",{"name":"description","content":"Испанский для школы: школьные темы на испанском с переводом на русский и озвучкой терминов."}],["$","link","2",{"rel":"icon","href":"/icon.svg?icon.3ne1i7z-tbaxq.svg","sizes":"any","type":"image/svg+xml"}],["$","$L13","3",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@14","v":null,"s":"$e"}},"a":"$@15","u":"$@16","b":"nxkXM46f7QRXZH0o-UXl0"}
+0:{"t":{"t":{"s":"","h":16,"c":"$Q1"},"h":{"r":["$","$2","h",{"children":[null,["$","$L10",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L12",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$b",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Испанский для школы"}],["$","meta","1",{"name":"description","content":"Испанский для школы: школьные темы на испанском с переводом на русский и озвучкой терминов."}],["$","link","2",{"rel":"icon","href":"/icon.svg?icon.3ne1i7z-tbaxq.svg","sizes":"any","type":"image/svg+xml"}],["$","$L13","3",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@14","v":null,"s":"$e"}},"a":"$@15","u":"$@16","b":"eKY5zMED8l2c6E1LPrTKM"}
 c:null
 16:true
 e:300
