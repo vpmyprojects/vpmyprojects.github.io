@@ -2,10 +2,10 @@
 3:"/_next/static/chunks/27bezkmr33tms.js"
 4:"/_next/static/chunks/0-wdsdw-cjsc5.js"
 5:"/_next/static/chunks/2hqyo1b0eg5l6.js"
-6:"/_next/static/chunks/3uog7q6mq-wqg.js"
+6:"/_next/static/chunks/39bkrgn9rd_14.js"
 7:I[39756,["$3","$4","$5","$6"],"default"]
 8:I[37457,["$3","$4","$5","$6"],"default"]
-13:"/_next/static/chunks/0fpejr2qa5r3y.js"
+13:"/_next/static/chunks/0ztjiavi7xt0x.js"
 14:I[35170,["$3","$4","$5","$6","$13"],"LessonSections"]
 15:I[97367,["$3","$4","$5","$6"],"OutletBoundary"]
 16:"$Sreact.suspense"
@@ -17,12 +17,12 @@
 a:X
 a:C
 b:X
-12:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$2","c",{"children":[["$","$L14",null,{"lesson":{"subject":"natural-science","level":"primary-3","slug":"animal-vital-functions","title":"Las funciones vitales de los animales","translatedTitles":{"ru":"Жизненные функции животных"},"trainers":[]}}],[["$","script","script-0",{"src":"/_next/static/chunks/0fpejr2qa5r3y.js","async":true}]],["$","$L15",null,{"children":["$","$16",null,{"name":"Next.MetadataOutlet","children":"$@17"}]}]]}],"p":"$@18","v":null,"s":"$b"}}]]
+12:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$2","c",{"children":[["$","$L14",null,{"lesson":{"subject":"natural-science","level":"primary-3","slug":"animal-vital-functions","title":"Las funciones vitales de los animales","hasExplanation":true,"translatedTitles":{"ru":"Жизненные функции животных"},"trainers":[]}}],[["$","script","script-0",{"src":"/_next/static/chunks/0ztjiavi7xt0x.js","async":true}]],["$","$L15",null,{"children":["$","$16",null,{"name":"Next.MetadataOutlet","children":"$@17"}]}]]}],"p":"$@18","v":null,"s":"$b"}}]]
 10:[["children",{"s":{"n":"slug","t":"d","k":"animal-vital-functions","s":[]},"h":65632,"d":{"r":["$","$2","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","template":["$","$L8",null,{}]}]]}],"p":"$@11","v":"$a","s":"$b"},"c":"$Q12"}]]
 e:[["children",{"s":{"n":"level","t":"d","k":"primary-3","s":[]},"h":196704,"d":{"r":["$","$2","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","template":["$","$L8",null,{}]}]]}],"p":"$@f","v":"$a","s":"$b"},"c":"$Q10"}]]
 c:[["children",{"s":{"n":"subject","t":"d","k":"natural-science","s":[]},"h":196704,"d":{"r":["$","$2","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","template":["$","$L8",null,{}]}]]}],"p":"$@d","v":"$a","s":"$b"},"c":"$Qe"}]]
 1:[["children",{"s":"lessons","h":131136,"d":{"r":["$","$2","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","template":["$","$L8",null,{}]}]]}],"p":"$@9","v":"$a","s":"$b"},"c":"$Qc"}]]
-0:{"t":{"t":{"s":"","h":131088,"c":"$Q1"},"h":{"r":["$","$2","h",{"children":[null,["$","$L1a",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L1c",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$16",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Las funciones vitales de los animales · Испанский для школы"}],["$","meta","1",{"name":"description","content":"Испанский для школы: школьные темы на испанском с переводом на русский и озвучкой терминов."}],["$","link","2",{"rel":"icon","href":"/icon.svg?icon.3ne1i7z-tbaxq.svg","sizes":"any","type":"image/svg+xml"}],["$","$L1d","3",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@1e","v":null,"s":"$b"}},"a":"$@1f","u":"$@20","b":"RrjAfwEJlFd-ZEMLgHqp9"}
+0:{"t":{"t":{"s":"","h":131088,"c":"$Q1"},"h":{"r":["$","$2","h",{"children":[null,["$","$L1a",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L1c",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$16",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Las funciones vitales de los animales · Испанский для школы"}],["$","meta","1",{"name":"description","content":"Испанский для школы: школьные темы на испанском с переводом на русский и озвучкой терминов."}],["$","link","2",{"rel":"icon","href":"/icon.svg?icon.3ne1i7z-tbaxq.svg","sizes":"any","type":"image/svg+xml"}],["$","$L1d","3",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@1e","v":null,"s":"$b"}},"a":"$@1f","u":"$@20","b":"AHsH0ourAg9WToDno5WwH"}
 17:null
 20:true
 b:300

@@ -1,4 +1,4 @@
-:HL["/_next/static/chunks/2ckl-jo9p16s8.css","style"]
+:HL["/_next/static/chunks/2q16-3mb7ozzl.css","style"]
 :HL["/_next/static/media/01d917b2efda642a-s.p.0y1w0k24nk0rl.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/22cfad3df91a75de-s.p.1n889avqnjhi6.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/2609726546c44021-s.p.0for97nelvzih.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
@@ -17,4 +17,4 @@
 3:[["children",{"s":{"n":"level","t":"d","k":"primary-3","s":[]},"h":196704,"c":"$Q4"}]]
 2:[["children",{"s":{"n":"subject","t":"d","k":"mathematics","s":[]},"h":196704,"c":"$Q3"}]]
 1:[["children",{"s":"lessons","h":131136,"c":"$Q2"}]]
-0:{"b":"RrjAfwEJlFd-ZEMLgHqp9","t":{"t":{"s":"","h":131088,"c":"$Q1"}}}
+0:{"b":"AHsH0ourAg9WToDno5WwH","t":{"t":{"s":"","h":131088,"c":"$Q1"}}}
